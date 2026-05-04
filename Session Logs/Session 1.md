@@ -17,7 +17,7 @@ That night, Drippy takes first watch, Ras takes second, and FLUX takes last watc
 	* Ras severs the leg of one, and Drippy gets shot.
 	* It turns out Ban is in the back—FLUX and Ban combo to break a chain and partially free him, just moments after Drippy sets the hallway **[[on fire]]**.
 	* Ras slices and dices for two **wounds** on the **Officer** and takes out another Coalition soldier.
-The session wraps up with a wounded Officer, a stunned soldier, and a remaining soldier in the control room.
+The session wraps up with a wounded Officer and a stunned soldier in the control room.
 # Character Notes
 * Ras
 	* Has a pet bird named Lark
@@ -29,12 +29,3 @@ The session wraps up with a wounded Officer, a stunned soldier, and a remaining 
 	* Ban is chained up somewhere.
 # Plans For Next Session
 * Need to confirm RoF on FLUX's gun
-
-
-
-- locational if it places an object at, in, on, near, or otherwise relative to a location, [Zhaolan] (defaults to **at**)
-- directional if it marks movement toward, away from, into, out of, or through a location, [Zhaolan] (defaults to **to**)
-- temporal if it links an object, action, or state to a point or span of time, [Zhaolan] (defaults to **at**)
-- instrumental if it marks the tool, method, material, or means by which something is done, [Zhaolan] (defaults to **with**)
-- relational if it establishes possession, association, topic, composition, or part-whole relationship, [Zhaolan] (defaults to **of**)
-- motive if it establishes the reason, purpose, beneficiary, or intended use of something, [Zhaolan] (defaults to **for**)
