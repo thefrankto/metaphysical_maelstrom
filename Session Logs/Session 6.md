@@ -5,7 +5,7 @@ At the center is a strangely-intact pod.
 We approach, as Ban and Drippy make efforts to contain the fire around us.
 A floating probe emerges from the pod.
 * It identifies itself as Chloe C-492, an AGI from the year 2208.
-* It was built by something called the IFF, which none of us know.
+* It was built by something called the IGF, which none of us know.
 * Chloe appears to be from a different timeline, or a different point on the same timeline.
 * She was scheduled to land on December 27th, 2557. 
 * It is not December 27th, 2775.

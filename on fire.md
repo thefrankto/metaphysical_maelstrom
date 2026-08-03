@@ -3,3 +3,4 @@ Things Drippy has set on fire:
 2. A [[Brodkil]]
 3. Coalition tents in Garnett Town... allegedly
 4. Started a fire at the [[Brodkil Camp]]
+5. 3 brodkil and 1 mech at the Brodkil slave camp
