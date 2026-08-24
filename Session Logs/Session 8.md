@@ -1,4 +1,4 @@
-A furious skirmish breaks out. FLUX is nearly brought down, but survives thanks to the use of bennies.
+A furious skirmish breaks out. FLUX is nearly brought down, but survives thanks to the use of bennies. Chloe cut down several with her powerful laser, and Ras, FLUX, and Drippy finished off the rest.
 We win fairly easily and capture the damaged mech, a **Triax X-500 Forager**. 
 Tragically, Ban's clothes did not survive the fight.
 After the fight, Chloe moves over to the cage and begins to cut the bars to free the prisoners.
