@@ -28,4 +28,4 @@ Final tally is: 3 brodkils recaptured, 1 brodkil escaped, 1 additional civilian 
 *  **Notes: Ban**
 	* s
 * Notes: Chloe
-	* **Obligation:** Week of September 6th, has completed 2 hours of obligation time.
+	* **Obligation:** Week of September 6th, has completed 4 hours of obligation time.
