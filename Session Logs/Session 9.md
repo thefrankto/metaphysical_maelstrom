@@ -21,4 +21,4 @@ Ban managed to save two, while Ras and FLUX cut down a few strange, tumbleweed-l
 *  **Notes: Ban**
 	* s
 * Notes: Chloe
-	* **Obligation:** Week of September 6th, has completed 2 hours of obligation time.
+	* **Obligation:** Week of September 6th, has completed 4 hours of obligation time.
