@@ -2,6 +2,7 @@
 As we escort the captives back to Garnett Town, we find ourselves set upon by a mysterious foe just at dusk.
 Panic breaks out and an episode of madness sees Ban rip his own arm off for... reasons.
 In the panic, several of the captives ran off into the darkness and died.
+
 Ban managed to save two, while Ras and FLUX cut down a few strange, tumbleweed-like enemies. 
 # Plans for Next Session
 * Interrogate captured Brodkil
